@@ -1,10 +1,14 @@
 <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ivson-bezerra/)"><i>Ivson Bezerra</i></a> 😃️</h1>
-
-  
+<div align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=9ba823&width=380&height=45&lines=Olá+Bem-vindo+ao+meu+perfil;Espero+que+goste!!!&center=true"></a>
+  </div>
   <div align="center">
+  
   <a href="https://github.com/ivsonjunior">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivsonjunior&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivsonjunior&theme=merko&hide_border=false&&layout=compact"/>
+    
   </a>
 </div>
   
