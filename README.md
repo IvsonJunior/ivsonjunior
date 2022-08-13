@@ -2,8 +2,7 @@
 <div align="rigth">
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  .. image:: https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/3d9cb367-02ad-46f3-8893-0162853dcd75.png
-    :target: https://wakatime.com/
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/3d9cb367-02ad-46f3-8893-0162853dcd75.png" /></a>
   </div>
 
   <div style="display: inline_block"><br>
