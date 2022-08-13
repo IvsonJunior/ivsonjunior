@@ -1,10 +1,12 @@
-## Olá, eu sou Ivson Junior.
-<div align="rigth">
-  <a href="https://github.com/IvsonJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ivson-bezerra/)"><i>Ivson Bezerra</i></a> 😃️</h1>
+
   
+  <div align="center">
+  <a href="https://github.com/ivsonjunior">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivsonjunior&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivsonjunior&theme=merko&hide_border=false&&layout=compact"/>
   </a>
-  </div>
+</div>
   
   
   <div style="display: inline_block"><br>
@@ -14,8 +16,12 @@
   <img align="center" alt="IvsonJunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="IvsonJunior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="IvsonJunior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+
    
   ######
 - 🌱 I’m currently learning Angular
