@@ -2,7 +2,14 @@
 <div align="center">
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/bac6f4f1-7a45-4546-a92c-bf41a7588469.png" /></a>
+  $.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/1827f96d-7aa8-4b17-bb2d-2fc55b02fc3e.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
   </div>
 
   <div style="display: inline_block"><br>
