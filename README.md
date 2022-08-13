@@ -9,6 +9,7 @@
   <p align="center">
     <a href="https://github.com/ivsonjunior"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ivsonjunior&theme=highcontrast"/></a>
     <a href="https://github.com/ivsonjunior/ivsonjunior"><img alt="IvsonJunior GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivsonjunior&show_icons=true&theme=merko" width=55%/></a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivsonjunior&theme=merko&hide_border=false&&layout=compact"/>
   
 </details>
 
