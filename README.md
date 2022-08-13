@@ -2,7 +2,7 @@
 <div align="rigth">
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/8e44aa32-7d2c-45c0-92ed-3acf9f225bcd.svg" heigth="200"/>
+  <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/8e44aa32-7d2c-45c0-92ed-3acf9f225bcd.svg"/>
   </div>
 
   <div style="display: inline_block"><br>
