@@ -2,7 +2,7 @@
 <div align="rigth">
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-
+  <a href="https://wakatime.com/dashboard?start=2022-07-31&end=2022-08-13">
   </div>
 
   <div style="display: inline_block"><br>
