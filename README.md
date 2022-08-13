@@ -3,6 +3,7 @@
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvsonJunior&layout=compact&langs_count=7&theme=merko"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvsonJunior&layout=compact)](https://github.com/IvsonJunior/github-readme-stats)
 </div>
 
   <div style="display: inline_block"><br>
