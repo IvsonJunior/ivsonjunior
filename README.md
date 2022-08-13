@@ -11,7 +11,13 @@
     
   </a>
 </div>
+  <details open="">
+  <summary><b>📈 GitHub Stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/ivsonjunior"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ivsonjunior&theme=highcontrast"/></a>
+    <a href="https://github.com/ivsonjunior/ivsonjunior"><img alt="IvsonJunior GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivsonjunior&show_icons=true&theme=merko" width=55%/></a>
   
+</details>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="IvsonJunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
