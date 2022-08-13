@@ -3,7 +3,8 @@
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   
-  <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/8c8510d0-5783-4257-903e-825640f321d4.png" heigth="400"/>  
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/8c8510d0-5783-4257-903e-825640f321d4.png" /></a>
   </div>
 
   <div style="display: inline_block"><br>
