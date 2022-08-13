@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ivson-bezerra/)"><i>Ivson Bezerra</i></a> 😃️</h1>
+<h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ivson-bezerra/)"><i>Ivson Bezerra</i></a> <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 <div align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=9ba823&width=380&height=45&lines=Olá+Bem-vindo+ao+meu+Perfil;Espero+que+goste!!!&center=true"></a>
