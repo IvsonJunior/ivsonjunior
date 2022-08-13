@@ -2,11 +2,12 @@
 <div align="rigth">
   <a href="https://github.com/IvsonJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvsonJunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/8c8510d0-5783-4257-903e-825640f321d4.png" /></a>
   </div>
-
+  
+  <div align="rigth">
+  <a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/8c8510d0-5783-4257-903e-825640f321d4.png" /></a>
+    </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="IvsonJunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="IvsonJunior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
