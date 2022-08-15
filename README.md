@@ -15,7 +15,7 @@
 </a><br>
       
 </a>
-    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/afca7cdc-8ee9-431e-b5f5-b78e48eb46ea.svg" height="400"&theme=highcontrast/>
+    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/4366180f-df28-42c2-9070-d0cadbad2312.svg" height="400"/>
   
 
 
