@@ -12,7 +12,7 @@
 [![IvsonJunior's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivsonjunior&theme=blue-green)](https://github.com/ivsonjunior/github-readme-stats)
        
 <a>
-    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/4366180f-df28-42c2-9070-d0cadbad2312.svg" height="400"/>
+    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/76c6378a-7284-4b84-a4ed-fd359ec58bd4.svg" height="400"/>
   
    
 
