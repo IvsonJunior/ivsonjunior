@@ -34,7 +34,7 @@
     
  
      
-<br>- 🌱 I’m currently learning Angular and React.js 
+<br>- 🌱 I’m currently learning Angular and React.js  
     </br>
   <p>  
     </p>
