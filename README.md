@@ -9,7 +9,7 @@
   
    [![IvsonJunior's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IvsonJunior&theme=blue-green)](https://github.com/IvsonJunior/github-readme-streak-stats&)
    [![IvsonJunior's github stats](https://github-readme-stats.vercel.app/api?username=IvsonJunior&theme=blue-green)](https://github.com/IvsonJunior/github-readme-stats)
-[![IvsonJunior's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivsonjunior&theme=blue-green)](https://github.com/ivsonjunior/github-readme-stats)
+
        
 <a>
     <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/de02d778-b777-4869-89fe-fc0d88cdee75.svg" height="400"/>
