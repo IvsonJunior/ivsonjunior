@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ivson-bezerra/)"><i>Ivson Bezerra</i></a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"</h1>
 <div align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=2ea6eb&width=380&height=45&lines=Olá+Bem-vindo+ao+meu+Perfil;Espero+que+goste!!!&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=2ea6eb&width=380&height=45&lines=Bem-vindo+ao+meu+Perfil;Espero+que+goste!!!&center=true"></a>
   </div>
   
   <details open="">
