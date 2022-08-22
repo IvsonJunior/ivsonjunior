@@ -34,7 +34,7 @@
     
  
      
-<br>- 🌱 I’m currently learning PHP. 
+<br>- 🌱 I’m currently learning PHP and React.js. 
     </br>
   <p>  
     </p>
