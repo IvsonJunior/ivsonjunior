@@ -34,7 +34,7 @@
     
  
      
-<br>- 🌱 I’m currently learning PHP/Lavarel.
+<br>
     </br>
   <p>  
     </p>
