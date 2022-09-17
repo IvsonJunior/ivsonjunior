@@ -12,7 +12,7 @@
 
        
 <a>
-    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/5676f4f2-5ef1-4431-ac5e-9ea7a1391e6a.png" height="400"/> 
+    <img src="https://wakatime.com/share/@01dd495a-5610-4645-8d11-fa4ef4e0ccbe/d02d8699-3c41-4d1b-a246-75b41f24d491.svg" height="400"/> 
   
    
 
