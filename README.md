@@ -24,7 +24,7 @@
      <div style="display: inline_block"><br>
   <img align="center" alt="IvsonJunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="IvsonJunior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="IvsonJunior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-plain.svg">
+  <img align="center" alt="IvsonJunior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img align="center" alt="IvsonJunior" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="IvsonJunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="IvsonJunior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
