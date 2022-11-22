@@ -31,8 +31,8 @@
   <img align="center" alt="IvsonJunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
   <img align="center" alt="IvsonJunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="IvsonJunior-azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="IvsonJunior-azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="IvsonJunior-azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="IvsonJunior-jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="IvsonJunior-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   
   
 </div><br>
