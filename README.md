@@ -8,7 +8,7 @@
   <summary><b>📈 GitHub Stats</b></summary>
   
    [![IvsonJunior's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IvsonJunior&theme=blue-green)](https://github.com/IvsonJunior/github-readme-streak-stats&)
-   [![IvsonJunior's github stats](https://github-readme-stats.vercel.app/api?username=IvsonJunior&theme=blue-green)](https://github.com/IvsonJunior/github-readme-stats)<br />
+  
   ![](https://komarev.com/ghpvc/?username=ivsonjunior&label=PROFILE+VIEWS)
 
        
